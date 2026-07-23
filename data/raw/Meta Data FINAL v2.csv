@@ -1,0 +1,29 @@
+Sample ID ,Treatment Group,SEX,geno-type,Run Batch,Tissue type,Time Point
+S001,Control,F,WT,B1,Liver,T0
+S002,Treatment,F,WT,B2,Liver,T0
+S003,Control,M,WT,B3,Liver,T0
+S004,control,M,KO,B1,Liver,T0
+S005,Control,F,KO,B2,Kidney,T0
+S006,Treatment,F,KO,B3,Kidney,T24
+S007,Control,female,WT,B1,Kidney,T24
+S008,Treatment,M,WT,B2,Kidney,T24
+S010,Control,F,WT,B3,Liver,T24
+S011,Treatment,F,wt,B1,Liver,T24
+S012,Control,M,KO,B2,Liver,T0
+S013,Treatment,M,KO,B3,Liver,T0
+S014,Control,F,WT,Batch2,Kidney,T0
+S015,Treatment,F,WT,B2,Kidney,T0
+S016,Control,M,WT,B3,Kidney,T0
+S017,Treatment,M,KO,B1,kidney ,T24
+S018,Control,F,KO,B2,Liver,T24
+S019,Treatment,F,KO,B3,Liver,T24
+S020,Control,M,WT,B1,Liver,24h
+S022,Treatment,M,WT,B2,Liver,T24
+S023,Control,,WT,B3,Kidney,T0
+S024,Treatment,F,KO,B1,Kidney,T0
+S025,Control,M,KO,B2,Kidney,T0
+S026,Treatment,M,KO,B3,NA,T0
+S027,Control,F,WT,B1,Liver,T0
+S028,Treatment,F,WT,B2,Liver,T24
+S030,Control,M,WT,B3,Liver,T24
+S006,Treatment,F,KO,B3,Kidney,T24
